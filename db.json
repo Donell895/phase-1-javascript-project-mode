@@ -1,0 +1,46 @@
+{
+    "calendar": {
+      "events": [
+        {
+          "id": 1,
+          "title": "A Day In The Life",
+          "program":"Cold shower, Take My breakfast ,Heading out",
+          "description": "Meeting",
+          "participants":"Joe Biden ,Donald Trumph, Rick Ross, Drake",
+          "location": "Ngong lane",
+          "start_time": "2023-07-06  9:45am",
+          "end_time": "2023-07-06   4:30pm"
+          
+        },
+        {
+          "id": 2,
+          "title": "Free Time",
+          "program":"Body Building, Jogging,100M Run",
+          "description": "Team lunch",
+          "participants":"Offset,Take off,Quavo",
+          "location": "Kempinski",
+          "start_time": "2023-07-05 7:30am",
+          "end_time": "2023-07-05   6:30pm "
+        },
+        {
+          "id": 3,
+          "transport": "flight",
+          "title": "Vacation",
+          "description": "Have fun",
+          "location": "Mombasa",
+          "start_time": "2023-07-06 7:00",
+          "end_time": "2023-07-06  5:50"
+        },
+        {
+          "id": 4,
+          "transport":"Sgr",
+          "title": "On our way Back",
+          "description": "",
+          "location": "Cafeteria",
+          "start_time": "2023-07-05T12:00:00",
+          "end_time": "2023-07-05T13:00:00"
+        }
+      ]
+    }
+  }
+  
