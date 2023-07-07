@@ -27,13 +27,13 @@ body {
     font-weight: bold;
   }
   
-  .day-play {
+  .day-name{
     font-size: 50px;
     color:lightsteelblue;
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
   
-  .day-number {
+  .day-numerals {
     font-size: 80px;
     margin: 0;
     font-weight:unset;
