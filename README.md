@@ -1,4 +1,4 @@
-#Calendar estimate
+#Calendar forecast
 
 This is a simple calendar application that fetches event data from a JSON file and displays it in a mini calendar view. Users can click on individual events to view additional details. The application is built using HTML, CSS, and JavaScript.
 
