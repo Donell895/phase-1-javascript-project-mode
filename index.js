@@ -1,6 +1,6 @@
-// index.js
 
-// Function to fetch and parse the JSON data
+
+
 function fetchData(callback) {
   fetch('db.json')
     .then(response => response.json())
@@ -8,7 +8,7 @@ function fetchData(callback) {
     .catch(error => console.error('Error:', error));
 }
 
-// Function to update the mini calendar with event data
+
 function updateCalendar(events) {
   const currentDate = new Date();
   const currentDay = currentDate.getDate();
