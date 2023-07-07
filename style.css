@@ -18,7 +18,7 @@ body {
     overflow: hidden;
   }
   
-  .month-name {
+  .month-day {
     margin: 0;
     background-color:black;
     color: white;
@@ -27,13 +27,13 @@ body {
     font-weight: bold;
   }
   
-  .day-name{
+  .day-play {
     font-size: 50px;
     color:lightsteelblue;
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
   
-  .day-numerals {
+  .day-number {
     font-size: 80px;
     margin: 0;
     font-weight:unset;
